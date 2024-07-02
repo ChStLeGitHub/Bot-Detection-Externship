@@ -4,7 +4,7 @@
 
 **Company Website:** https://besample.app/
 
-**Project Objective:** Identify the typical behaviors of bot accounts that infiltrated Besample and provide strategies for quickly detecting future bots.
+**Project Objective:** To identify the typical behaviors of bot accounts that infiltrated Besample and provide strategies for quickly detecting future bots.
 
 **Skills Demonstrated:** Bayesian statistics, time series modeling, feature engineering, k-nearest neighbors (KNN), and principal component analysis (PCA)
 
