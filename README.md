@@ -8,7 +8,7 @@
 
 **Skills Demonstrated:** Bayesian statistics, time series modeling, feature engineering, k-nearest neighbors (KNN), and principal component analysis (PCA)
 
-**Breakdown of Tasks Completed:** In total, I used four Jupyter notebooks, each serving a specific purpose as outlined below. To ensure the sensitive data of Besample users remain secure, I have deliberately excluded the notebooks (and datasets) from this repository. I invite you to watch the video of my presentation to CompanyXYZ representatives to gain a comprehensive understanding of my contributions to the project.
+**Breakdown of Tasks Completed:** In total, I used four Jupyter notebooks, each serving a specific purpose as outlined below. To ensure the sensitive data of Besample users remain secure, I have deliberately excluded the notebooks (and datasets) from this repository. I invite you to watch the video of my presentation to Besample representatives to gain a comprehensive understanding of my contributions to the project.
 
 ***Notebook 1***: Initial data cleaning, data analysis, and feature engineering for the primary dataframe, including time series graphs.
 
